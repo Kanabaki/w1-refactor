@@ -1,12 +1,13 @@
 # W1 Refactor Horiseon
 
 ## Description 
-This starter code was refactored to meet accessibility standards regarding the simplification of the starter code.
+This starter code was refactored to meet accessibility standards regarding the simplification of the starter code. Now the web browser knows more about the layout of the page, and can provide more information to those with disabilities. This project has taught me more about navigating the Chrome WebDev tool to check for accessibility info, as well as helping with getting a visual on the diplayed elements. I've also learned commenting, and it's a good way to label sections of code for other developers or for myself. 
 
 ## Installation
 N/A
 
 ## Usage
+When you load the page, then you can see three navigation links to the right. When you click the links in the navitgation bar, you can jump to a specified section in the main body of the page. When you use Chrome Webdev tools you get accessibility information about the page and it's contents ie. images and sections.
 
 ## Credits
 Original starter code repository: urban-octo-telegram
