@@ -7,7 +7,12 @@ This starter code was refactored to meet accessibility standards regarding the s
 N/A
 
 ## Usage
+![Horiseon Page image top](./images/Refactor_Horiseon_top.png)
+![Horiseon Page image bottom](./images/Refactor_Horiseon_bottom.png)
+
 When you load the page, then you can see three navigation links to the right. When you click the links in the navitgation bar, you can jump to a specified section in the main body of the page. When you use Chrome Webdev tools you get accessibility information about the page and it's contents ie. images and sections.
+
+Visit Page: https://kanabaki.github.io/w1-refactor/
 
 ## Credits
 Original starter code repository: urban-octo-telegram
